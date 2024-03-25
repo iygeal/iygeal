@@ -7,7 +7,7 @@
 
 - 🌱 I’m learning the tools/languages: **C, Python, MySQL...**
 
-- 👯 I’m looking to collaborating on **related open-source projects.**
+- 👯 I’m looking forward to collaborating on **related open-source projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
