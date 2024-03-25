@@ -1,15 +1,13 @@
 <h1 align="center">Hello World! 👋 Welcome to my GitHub!</h1>
 <h3 align="center">I'm an ardent Full-Stack Software Engineer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iygeal&label=Profile%20views&color=0e75b6&style=flat" alt="iygeal" /> </p>
-
 <p align="left"> <a href="https://twitter.com/iygeal" target="blank"><img src="https://img.shields.io/twitter/follow/iygeal?logo=twitter&style=for-the-badge" alt="iygeal" /></a> </p>
 
 - 🔭 I’m currently studying **Software Engineering with ALX.**
 
-- 🌱 I’m currently learning **C, Python, MySQL...**
+- 🌱 I’m learning the tools/languages: **C, Python, MySQL...**
 
-- 👯 I’m looking to collaborate on **related open-source projects.**
+- 👯 I’m looking to collaborating on **related open-source projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
