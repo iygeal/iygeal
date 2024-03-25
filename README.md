@@ -1,9 +1,9 @@
-<h1 align="center">Hello World! 👋 Welcome to my GitHub!</h1>
+<h1 align="center">Hello World ! 😎</h1>
 <h3 align="center">I'm an ardent Full-Stack Software Engineer.</h3>
 
 <p align="left"> <a href="https://twitter.com/iygeal" target="blank"><img src="https://img.shields.io/twitter/follow/iygeal?logo=twitter&style=for-the-badge" alt="iygeal" /></a> </p>
 
-- 🔭 I’m currently studying **Software Engineering with ALX.**
+- 🔭 I’m currently studying **Software Engineering at ALX.**
 
 - 🌱 I’m learning the tools/languages: **C, Python, MySQL...**
 
