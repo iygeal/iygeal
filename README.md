@@ -1,9 +1,7 @@
-<h1 align="center">Hello World! I'm Iygeal Anozie,</h1>
-<h3 align="center">a passionate Full-Stack Software Engineer.</h3>
+<h1 align="center">Hello World! 👋 Welcome to my GitHub!</h1>
+<h3 align="center">I'm an ardent Full-Stack Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iygeal&label=Profile%20views&color=0e75b6&style=flat" alt="iygeal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iygeal" alt="iygeal" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/iygeal" target="blank"><img src="https://img.shields.io/twitter/follow/iygeal?logo=twitter&style=for-the-badge" alt="iygeal" /></a> </p>
 
