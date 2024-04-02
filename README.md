@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying **Software Engineering at ALX.**
 
-- 🌱 I’m learning the tools/languages: **C, Python, MySQL...**
+- 🌱 I’m learning the tools/languages: **C, Python, MySQL, HTML, CSS,...**
 
 - 👯 I’m looking forward to collaborating on **related open-source projects.**
 
