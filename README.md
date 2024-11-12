@@ -1,11 +1,11 @@
 <h1 align="center">Hello World ! 😎</h1>
-<h3 align="center">I'm an ardent Full-Stack Software Engineer.</h3>
+<h3 align="center">I'm a reliable Python-inclined Backend Software Engineer.</h3>
 
 <p align="left"> <a href="https://twitter.com/iygeal" target="blank"><img src="https://img.shields.io/twitter/follow/iygeal?logo=twitter&style=for-the-badge" alt="iygeal" /></a> </p>
 
-- 🔭 I’m currently studying **Software Engineering at ALX.**
+- 🔭 I’m a graduate of **Software Engineering at ALX Africa.**
 
-- 🌱 I’m learning the tools/languages: **C, Python, MySQL, HTML, CSS,...**
+- 🌱 I’m learning the tools/languages: **Python - Django & Flask; JS - React; MySQL, Docker, etc**
 
 - 👯 I’m looking forward to collaborating on **related open-source projects.**
 
