@@ -1,11 +1,11 @@
 <h1 align="center">Hello World ! 😎</h1>
-<h3 align="center">I'm a reliable Python-inclined Backend Software Engineer.</h3>
+<h3 align="center">I'm a reliable Backend Software Engineer.</h3>
 
 <p align="left"> <a href="https://twitter.com/iygeal" target="blank"><img src="https://img.shields.io/twitter/follow/iygeal?logo=twitter&style=for-the-badge" alt="iygeal" /></a> </p>
 
 - 🔭 I’m a graduate of **Software Engineering at ALX Africa.**
 
-- 🌱 I’m learning the tools/languages: **Python - Django & Flask; JS - React; MySQL, Docker, etc**
+- 🌱 I’m currently working with the tools/languages: **Python - Django & Flask; JS - Express; MongoDB, MySQL, Docker, etc**
 
 - 👯 I’m looking forward to collaborating on **related open-source projects.**
 
